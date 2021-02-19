@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "-message-"
+git push
+
+//branches
+git branch  //show all branches
+git branch <branch-name> //opens a branch
+git checkout <branch-name>  //checks out the branch
+
+git checkout -b <branch-name> //open a branch and checkout -- 2 in one command
+
+
+git pull
